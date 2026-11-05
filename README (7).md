@@ -99,12 +99,6 @@ Palabras clave: Sistema musculoesquelético; Analogía fuerza–voltaje; Modelo 
 
 ## Imagen del sistema musculoesquelético
 
-<p align="center">
-  <img src="imagenes/sistema_musculoesqueletico.png" alt="Diagrama biológico del sistema musculoesquelético: músculo, tendón, componente viscosa y elasticidad pasiva" width="1000">
-</p>
-
-*Figura 1. Diagrama biológico del sistema musculoesquelético proporcionado para la práctica.*
-
 | Elemento del modelo | Interpretación biológica |
 | --- | --- |
 | $F_0(t)$ | Fuerza generada por el elemento contráctil activo del músculo. |
@@ -353,20 +347,6 @@ $$
 
 Las sustituciones numéricas y la conversión a desplazamiento complementan el desarrollo manuscrito. No corresponden a resultados de simulación ni a una sintonización del PID.
 
-#### 4.6. Evidencia de los cálculos manuscritos
-
-**Hoja 1. Circuito equivalente y separación por superposición.**
-
-![Circuito equivalente y superposición](imagenes/calculos-1.png)
-
-**Hoja 2. Ecuaciones del circuito y primera contribución.**
-
-![Ecuaciones y transformada de Laplace](imagenes/calculos-2.png)
-
-**Hoja 3. Segunda contribución y función de transferencia final.**
-
-![Suma de contribuciones y función de transferencia](imagenes/calculos-3.png)
-
 ### 5. Error en estado estacionario
 
 Se utiliza una entrada adecuada para estudiar el comportamiento final, por ejemplo un escalón. Esta prueba es distinta del análisis al impulso solicitado para comparar la dinámica.
@@ -484,9 +464,8 @@ El diagrama relaciona el elemento contráctil con la generación de fuerza, el t
 
 Es una representación simplificada: cada componente agrupa propiedades de varias estructuras. Por ello, la equivalencia ayuda a interpretar el modelo, pero no describe de manera completa toda la anatomía ni todos los mecanismos de la contracción muscular.
 
-<p align="center">
-  <img src="imagenes/diagrama_pdf-000.png" alt="Diagrama biológico del sistema musculoesquelético: fuerza activa muscular, tendones y componentes viscosos y elásticos" width="1000">
-</p>
+<img width="1260" height="890" alt="image" src="https://github.com/user-attachments/assets/d48ab4dc-db28-49ce-ae2b-c4e4ad3dcc08" />
+
 
 *Figura 2. Diagrama biológico del sistema musculoesquelético incluido en el PDF.*
 
