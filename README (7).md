@@ -100,12 +100,6 @@ Palabras clave: Sistema musculoesquelético; Analogía fuerza–voltaje; Modelo 
 
 ## Imagen del sistema musculoesquelético
 
-<p align="center">
-  <img src="imagenes/sistema_musculoesqueletico.png" alt="Diagrama biológico del sistema musculoesquelético: músculo, tendón, componente viscosa y elasticidad pasiva" width="1000">
-</p>
-
-*Figura 1. Diagrama biológico del sistema musculoesquelético proporcionado para la práctica.*
-
 | Elemento del modelo | Interpretación biológica |
 | --- | --- |
 | $F_0(t)$ | Fuerza generada por el elemento contráctil activo del músculo. |
