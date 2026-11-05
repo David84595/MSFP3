@@ -96,7 +96,7 @@ El sistema de retroalimentación incorpora un controlador PID. Las ganancias $k_
 
 La práctica se realiza exclusivamente mediante experimentación *in silico*, con fines académicos y de simulación; no constituye un tratamiento para la atrofia muscular.
 
-Palabras clave: Sistema musculoesquelético; Analogía fuerza–voltaje; Modelo matemático; Controlador PID; Simulaciones numéricas.
+Palabras clave: circuito RLC; controlador PID; sistema musculoesquelético; modelo matemático; simulaciones numéricas.
 
 ## Imagen del sistema musculoesquelético
 
